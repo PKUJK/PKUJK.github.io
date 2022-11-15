@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "cn-CN"
-title                    : "Dr Jiang Account"
+title                    : "Ke Jiang Account"
 title_separator          : "-"
 name                     : &name "Dr Jiang"
-description              : &description "PHD candidate in Peking University"
+description              : &description "A PhD candidate in Peking University"
 url                      : https://PKUJK.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -85,8 +85,8 @@ author:
   bio              : "A PHD candidate in Peking University, College of Unban and Environmental Science"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "pkujk@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
