@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ke Jiang is a phd candidate in Peking University, College of Urban and Environmental Science, majoring in Environmental Geography."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
