@@ -10,7 +10,7 @@ redirect_from:
 
 
 \
-这个文档用来测试对于中文的包容性
+Welcome to all friends for communication! (pkujk@pku.edu.cn)
 
 Education
 ======
