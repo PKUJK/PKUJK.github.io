@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-None
+Haven't begin to work
   
 Skills
 ======
