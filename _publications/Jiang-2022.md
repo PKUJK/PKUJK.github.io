@@ -5,9 +5,9 @@ permalink: /publication/Jiang-2022
 date: 2022-04-23
 venue: 'Environmental Pollution'
 paperurl: 'http://pkujk.github.io/files/Jiang-2022.pdf'
-citation: 'Jiang, K.; Fu, B.; Luo, Z.; Xiong, R.; Men, Y.; Shen, H.; Li, B.; Shen, G.; Tao, S. Attributed radiative forcing of air pollutants from biomass and fossil burning emissions. <i>Environmental Pollution</i> 2022, 306, 119378. DOI: https://doi.org/10.1016/j.envpol.2022.119378.'
+citation: 'Jiang, K. et al. Attributed radiative forcing of air pollutants from biomass and fossil burning emissions. Environmental Pollution 306, 119378 (2022). https://doi.org:https://doi.org/10.1016/j.envpol.2022.119378'
 ---
 
-[Download paper here](http://pkujk.github.io/files/Jiang-2022.pdf)
+[Download paper here](http://pkujk.github.io/files/Jiang-2022-EP.pdf)
 
-Recommended citation: Jiang, K.; Fu, B.; Luo, Z.; Xiong, R.; Men, Y.; Shen, H.; Li, B.; Shen, G.; Tao, S. Attributed radiative forcing of air pollutants from biomass and fossil burning emissions. <i>Environmental Pollution</i> 2022, 306, 119378. DOI: https://doi.org/10.1016/j.envpol.2022.119378.
+Recommended citation: Jiang, K. et al. Attributed radiative forcing of air pollutants from biomass and fossil burning emissions. Environmental Pollution 306, 119378 (2022). https://doi.org:https://doi.org/10.1016/j.envpol.2022.119378.
