@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ke Jiang is a PhD candidate in Peking University, College of Urban and Environmental Science, majoring in Environmental Geography."
+title: "Ke Jiang is a PhD candidate in Peking University, College of Urban and Environmental Sciences, majoring in Environmental Geography."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 
 \
-Welcome to all friends for communication! (pkujk@pku.edu.cn)
+Welcome to all friends for communication. (pkujk@pku.edu.cn)
 
 Education
 ======
